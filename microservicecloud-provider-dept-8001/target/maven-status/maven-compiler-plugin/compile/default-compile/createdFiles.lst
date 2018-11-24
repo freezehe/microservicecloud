@@ -1,0 +1,5 @@
+com\freeze\springcloud\DeptProvider8001_App.class
+com\freeze\springcloud\controller\DeptController.class
+com\freeze\springcloud\dao\DeptDao.class
+com\freeze\springcloud\service\DeptService.class
+com\freeze\springcloud\service\impl\DeptServiceImpl.class
